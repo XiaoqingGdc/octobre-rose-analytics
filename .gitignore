@@ -1,0 +1,9 @@
+data/raw/
+data/clean/*.csv
+.venv/
+venv/
+.env
+ENV/
+__pycache__/
+*.pyc
+
